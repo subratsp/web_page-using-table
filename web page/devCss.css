@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(./pexels_photo.jpeg);
+}
+.table{
+    font-size: 2rem;
+    color: aqua;
+}
